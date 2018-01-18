@@ -1,0 +1,11 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables></variables>
+  <block type="txtLampOn" id=")DZ1aWHRoZ]X0*|2$okm" x="9" y="3">
+    <field name="output_ports">O1</field>
+    <value name="intensity">
+      <block type="math_number" id="?Ejf@@Ti[R/z?HO%wv(f">
+        <field name="NUM">1</field>
+      </block>
+    </value>
+  </block>
+</xml>
